@@ -12,7 +12,7 @@ Seguem as pequenas coisas que eu estou fazendo...
   
   Desenvolvendo programas de cadastro e pesquisas de dados
   
-  Desenvolvendo aplicações automatizadas em python para atividades repetitivas
+  Desenvolvendo aplicações automatizadas em python.
   
   Se você tem a necessidade de trabalhar com muitas planilhas e precisa compila-las e trabalhar com os dados dessas planilhas.
   Talvez eu possa te ajudar =)
