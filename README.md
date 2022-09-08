@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adrianoandrade92
-- 👀 I’m interested in learning pandas, PyQT5, MySqL
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python | SQL | HTML | CSS | JavaScript | React 
+- 🌱 I’m currently learning Python \ SQL
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me ... adrianoandrade92@gmail.com
 
@@ -16,6 +16,8 @@ Seguem as pequenas coisas que eu estou fazendo...
   
   Se você tem a necessidade de trabalhar com muitas planilhas e precisa compila-las e trabalhar com os dados dessas planilhas.
   Talvez eu possa te ajudar =)
+  
+  Não sou um DBA rsrsr...MAs se você deseja criar consultas em SQL também posso te ajudar. 
   
   Abraço,
   Adriano Andrade
